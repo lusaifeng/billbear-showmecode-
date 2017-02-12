@@ -35,7 +35,7 @@
   import InfiniteLoading from 'vue-infinite-loading'
   export default {
 
-    name: 'newsList',
+    name: 'app',
     components: {
       InfiniteLoading
     },
